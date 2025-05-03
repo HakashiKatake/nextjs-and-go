@@ -2,6 +2,12 @@
 
 A full-stack todo application built with Next.js frontend, Go backend API, and PostgreSQL database. The entire application is containerized using Docker for easy setup and deployment.
 
+# Demo:
+
+https://github.com/user-attachments/assets/9d813057-9539-4534-adde-73e0ae779472
+
+
+
 ## Tech Stack
 
 - **Frontend**: Next.js
